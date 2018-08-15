@@ -1,0 +1,3 @@
+
+We can't have repositories within repositories (except as submodules which we wont go into here). So this set of exercises has to be done separately. Go up one level from the Workshop repository and create or find the GitExercises directory, then follow the readme at https://github.com/WarwickRSE/PracticalGit
+
